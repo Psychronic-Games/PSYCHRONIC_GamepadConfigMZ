@@ -1,14 +1,23 @@
 # PSYCHRONIC_GamepadConfigMZ
 
-[v1.0.5] Customize gamepad controls with a visual controller interface
+Customize gamepad controls with a visual controller interface
 
-## What This Is
+## What It Does
 
-This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
+This plugin allows players to customize their gamepad controls from the Options menu. It features a visual gamepad diagram where players can click on buttons to assign actions. Both Standard and Alternative layouts are supported by default.
 
-## Plugin File
+## Basic Usage
 
-- `PSYCHRONIC_GamepadConfigMZ.js`
+1. Access from Options Menu
+2. Click on a button you want to change
+3. Select the action you want to assign to that button
+4. Use "Default Layout" or "Alt Layout" to quick-switch
+5. Press "Finish" when done
+
+## Compatibility
+
+- RPG Maker MZ
+- JavaScript plugin for `js/plugins/`
 
 ## Installation
 
@@ -20,11 +29,11 @@ This repository contains a standalone **RPG Maker MZ plugin** from Psychronic.
 
 This version was exported from the RPG Reactor Complex template source plugin folder.
 
-Current source version: 1.0.5
-
 ## Author
 
 Psychronic
+
+https://psychronic.itch.io
 
 ## License
 
